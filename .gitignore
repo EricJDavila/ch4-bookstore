@@ -1,0 +1,5 @@
+# En .gitignore
+.venv
+__pycache__/
+db.sqlite3
+ch4-bookstore.code-workspace

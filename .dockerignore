@@ -1,0 +1,6 @@
+# En .dockerignore
+.venv
+db.sqlite3
+.git
+.gitignore
+ch4-bookstore.code-workspace
